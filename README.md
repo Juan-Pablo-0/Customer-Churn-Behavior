@@ -9,7 +9,7 @@ The objective is to identify the main reasons for churn based on customer compla
 
 (Hidden worksheets)
 1. Churn Analysis: is a hidden sheet containing PivotTables that analyze customer churn by demographics, contract type, and state. It serves as the foundation for the Overview sheet and the source of its charts.
-2. Customer Reasons: this is a hidden sheet containing detailed data and charts on the specific reasons behind customer# churn.
+2. Customer Reasons: this is a hidden sheet containing detailed data and charts on the specific reasons behind customer churn.
 
 # Software
 Excel for data processing and report creation:
